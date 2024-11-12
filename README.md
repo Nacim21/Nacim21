@@ -1,5 +1,7 @@
 ### Welcome 👋 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nacim-elias-3b4834271/)
 
+<img align="right" height="150" src="https://media.giphy.com/media/ktN2lM4lUkIZ4y4LzK/giphy.gif" />
+
 🚀 Projects that im currently working on: <br>
 - ⚡Python Discord Bot for CS Club
 - ⚡Java Music Player
